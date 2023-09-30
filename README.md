@@ -1,9 +1,4 @@
-# zju
-files for Design Engineering 
-## Hi,new designers! 
-### 我是浙江大学的新生
-#### 嵌入图片
-![](img/IEEE.jpg) 
-![](https://dam-prod2.media.mit.edu/thumb/2023/09/25/CSF2023.png.800x800.png) 
+# 项目介绍
 
-##### I dont wanna kaixue 
+## 这是浙江大学软件学院2023级工业设计工程研究生课程《设计工程学》的小组project
+## 欢迎指出我们的问题！
