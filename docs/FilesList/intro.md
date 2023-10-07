@@ -36,7 +36,7 @@
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/eecdb4613644c65865d9325d8488d02.jpg" width="300px" height="300px">
 </div>
 
->性别男，常年担任同专业学生年龄最小记录持有者，爱搞设计的小男孩一枚吖~
+>性别男，常年同专业学生年龄最小记录持有者，爱搞设计的小男孩一枚吖~
 >
 >读研期间每天的人生态度与精神状态有点抄袭水豚，理想是早日产出令自己骄傲的学术成果。
 
@@ -54,6 +54,4 @@
     <img src="https://github.com/ingw3216/blogimage/raw/main/img/zhaoxin.jpg" width="300px" height="300px">
 </div>
 
->hi这里是赵欣from陕西，enfp快乐小狗追求开心，爱吃爱玩相册喜欢堆积，好好设计也是其中之一，
->
->InnoWarm团队值得分析，虽然还不熟悉，但就在朝朝夕夕
+>hi这里是赵欣from陕西，enfp快乐小狗追求开心，爱吃爱玩相册喜欢堆积，好好设计也是其中之一，InnoWarm团队值得分析，虽然还不熟悉，但就在朝朝夕夕
